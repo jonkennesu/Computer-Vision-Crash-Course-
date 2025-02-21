@@ -1,3 +1,5 @@
-# Computer-Vision-Crash-Course
+# 📌 Computer Vision (Crash Course)
+📖 Overview
+This repository contains Python notebooks exploring various computer vision techniques using OpenCV.
 
-# Hello Madlang Pipol
+Please feel free to navigate. ^_^
